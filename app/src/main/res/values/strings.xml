@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MeterialBetter0321</string>
+    <string name="person_name">Kobe Bryant</string>
+    <string name="person_title">退役NBA巨星</string>
+    <string name="person_intro">
+        科比是一名高产的得分手，他的职业生涯场均可以得到25分，还有5.2个篮板、4.7次助攻和1.4次抢断， 被认为是NBA最全面的球员之一。
+        他是NBA历史上第一位得到30000分，6000次助攻的球员。
+        他是一名有能力为自己创造得分机会的球员，他还与人分享着NBA单场命中12个三分球的NBA纪录。
+        但他职业生涯44.7%的命中率很一般。
+        他利用自己的速度和运动能力来躲开防守球员的防守以完成进攻，几乎没有进攻盲区。
+        科比的最佳动作是他的转身跳投，还有他低位单打的能力以及后仰跳投。
+        《体育画报》NBA作家克里斯·巴拉德（Chris Ballard）形容科比的移动为“使用脚步和停顿”，他把他的非中轴脚向前让防守者放松，然后快速启动甩开对手突入篮下。
+    </string>
+</resources>
